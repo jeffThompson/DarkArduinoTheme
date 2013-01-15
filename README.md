@@ -1,3 +1,5 @@
+![screenshot](https://github.com/jeffThompson/DarkArduinoTheme/blob/master/screenshot.png)
+
 Dark Arduino Theme
 ================
 
