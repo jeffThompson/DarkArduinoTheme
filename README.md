@@ -17,6 +17,9 @@ Buttons and tabs are stored as image files, which have been modified to fit the 
 3. **SCREENSHOT**  
 Self-explanatory :)
 
+####PSD 'BUTTONS' FILE
+The `theme` folder also includes a Photoshop (.psd) file for the buttons which includes a saved selection for easier changing of the background.  This can be accessed through the 'Channels' panel.
+
 \- \- \-
 
 \[ all code available under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use but [please let me know](http://www.jeffreythompson.org) \]
