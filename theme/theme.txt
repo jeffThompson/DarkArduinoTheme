@@ -50,7 +50,7 @@ editor.caret.color = #888888
 editor.external.bgcolor = #c8d2dc
 
 # selection color
-editor.selection.color = #cc9900
+editor.selection.color = #775500
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #E34C00,bold
