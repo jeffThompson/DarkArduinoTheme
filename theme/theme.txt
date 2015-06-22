@@ -1,3 +1,13 @@
+#FUNCTIONS COLOR 			#D35400 - ORANGE			KEYWORD1
+#FUNCTIONS COLOR			#D35400 - ORANGE			KEYWORD2
+#STRUCTURE COLORS 			#5E6D03 - GREEN				KEYWORD3
+#VARIABLES COLOR 			#00979C - BLUE				LITERAL1
+
+#ERROR COLOR				#A61717 - RED
+#COMMENTS // COLOR			#95A5A6 - LIGHT GREY
+#COMMENTS /**/ COLOR		#434F54	- DARK GREY
+
+
 # GUI - STATUS
 status.notice.fgcolor = #002325
 status.notice.bgcolor = #404040
@@ -27,7 +37,7 @@ buttons.bgcolor = #505050
 buttons.status.font = SansSerif,plain,12
 buttons.status.color = #ffffff
 
-# GUI - LINESTATUS - editor line number status bar at the bottom of the screen
+# GUI - LINESTATUS
 linestatus.color = #ffffff
 linestatus.bgcolor = #404040
 linestatus.font	   = SansSerif,plain,10
@@ -66,29 +76,37 @@ editor.brackethighlight.color = #cc9900
 
 # TEXT - KEYWORDS
 
-# e.g abstract, final, private
+# FUNCTIONS
 editor.keyword1.style = #ff0000,plain
+editor.data_type.style = #ff0000,plain
 
-# e.g. beginShape, point, line
+# METHODS
 editor.keyword2.style = #ff5500,plain
+editor.function.style = #ff5500,plain
 
-# e.g. byte, char, short, color
+# STRUCTURES
 editor.keyword3.style = #cc0000,bold
+editor.reserved_word.style = #cc0000,bold
 
 
 # TEXT - LITERALS
 
-# constants: e.g. null, true, this, RGB, TWO_PI
+# constants & datatypes
 editor.literal1.style = #288AB5,plain
 
 # p5 built in variables: e.g. mouseX, width, pixels
 editor.literal2.style = #ff00ff,plain
+editor.variable.style = #ff00ff,plain
+editor.reserved_word_2.style = #ff00ff,plain
+editor.literal_char.style = #ff00ff,plain
+editor.literal_string_double_quote.style = #ff00ff,plain
 
-# http://arduino.cc/ - GET RID OF UNDERLINE!
+# http://www.arduino.cc/ - GET RID OF UNDERLINE!
 editor.url.style = #81A421,plain
 
 # e.g. + - = /
 editor.operator.style = #888888,plain
+
 
 # ?? maybe this is for words followed by a colon
 # like in case statements or goto
@@ -98,3 +116,8 @@ editor.label.style = #7e7e7e,bold
 # TEXT - COMMENTS
 editor.comment1.style = #92B532,plain
 editor.comment2.style = #92B532,plain
+
+
+# LINE STATUS - editor line number status bar at the bottom of the screen
+linestatus.font	   = SansSerif,plain,10
+linestatus.height  = 20
