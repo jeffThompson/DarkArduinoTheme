@@ -1,3 +1,5 @@
+![screenshot.png]('screenshot')
+
 Dark Arduino Theme
 ================
 
