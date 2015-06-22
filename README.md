@@ -1,4 +1,4 @@
-[!screenshot.png]('screenshot')
+![https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png](screenshot)
 
 Dark Arduino Theme
 ================
