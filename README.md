@@ -1,4 +1,4 @@
-![screenshot.png]('screenshot')
+[!screenshot.png]('screenshot')
 
 Dark Arduino Theme
 ================
