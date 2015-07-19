@@ -94,7 +94,7 @@ editor.reserved_word.style = #cc0000,bold
 # constants & datatypes
 editor.literal1.style = #288AB5,plain
 
-# p5 built in variables: e.g. mouseX, width, pixels
+# p5 built in variables: e.g. mouseX, width, pixels.. CHANGE THESE COLORS IF THE NUCLEAR PINK HURTS YOUR EYES~~
 editor.literal2.style = #ff00ff,plain
 editor.variable.style = #ff00ff,plain
 editor.reserved_word_2.style = #ff00ff,plain
