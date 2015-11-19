@@ -48,9 +48,9 @@ editor.fgcolor = #ffffff
 editor.bgcolor = #202020
 
 # highlight for the current line
-editor.linehighlight.color=#e2e2e2
+editor.linehighlight.color=#333333
 # highlight for the current line
-editor.linehighlight=false
+editor.linehighlight=true
 
 # caret blinking and caret color
 editor.caret.color = #333300
@@ -59,7 +59,7 @@ editor.caret.color = #333300
 editor.external.bgcolor = #c8d2dc
 
 # selection color
-editor.selection.color = #ffcc00
+editor.selection.color = #dd8800
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
@@ -106,7 +106,7 @@ editor.preprocessor.style = #5E6D03,plain
 editor.url.style = #81A421,plain
 
 # e.g. + - = /
-editor.operator.style = #434f54,plain
+editor.operator.style = #aaaaaa,plain
 
 
 # ?? maybe this is for words followed by a colon
@@ -115,8 +115,8 @@ editor.label.style = #7e7e7e,bold
 
 
 # TEXT - COMMENTS
-editor.comment1.style = #434F54,plain
-editor.comment2.style = #95a5a6,plain
+editor.comment1.style = #aaaaaa,plain
+editor.comment2.style = #aaaaaa,plain
 
 
 # LINE STATUS - editor line number status bar at the bottom of the screen

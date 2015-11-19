@@ -9,7 +9,7 @@
 
    <!-- Omitting baseFont will use a system-appropriate monospaced. -->
    <!--<baseFont family="..." size="13"/>-->
-   
+
    <!--  General editor colors. -->
    <background color="293134"/>
    <caret color="c1cbc2"/>
@@ -18,26 +18,26 @@
    <marginLine fg="394448"/>
    <markAllHighlight color="6b8189"/> <!-- TODO: Fix me -->
    <markOccurrencesHighlight color="5b7179" border="false"/>
-   <matchedBracket fg="6A8088" bg="6b8189" highlightBoth="false" animate="false"/>
+   <matchedBracket fg="ffffff" bg="aaaaaa" highlightBoth="true" animate="true"/>
    <hyperlinks fg="a082bd"/>
    <secondaryLanguages>
       <language index="1" bg="333344"/>
       <language index="2" bg="223322"/>
       <language index="3" bg="332222"/>
    </secondaryLanguages>
-   
+
    <!-- Gutter styling. -->
    <gutterBorder color="81969A"/>
-   <lineNumbers fg="81969A"/>
-   <foldIndicator fg="6A8088" iconBg="2f383c"/>
+   <lineNumbers fg="cccccc"/>
+   <foldIndicator fg="cccccc" iconBg="aaaaaa"/>
    <iconRowHeader activeLineRange="3399ff"/>
-   
+
    <!-- Syntax tokens. -->
    <tokenStyles>
       <style token="IDENTIFIER" fg="E0E2E4"/>
       <style token="RESERVED_WORD" fg="93C763" bold="true"/>
       <style token="RESERVED_WORD_2" fg="93C763" bold="true"/>
-      <style token="ANNOTATION" fg="E8E2B7"/>
+      <style token="ANNOTATION" fg="aaaaaa"/>
       <style token="COMMENT_DOCUMENTATION" fg="6C788C"/>
       <style token="COMMENT_EOL" fg="66747B"/>
       <style token="COMMENT_MULTILINE" fg="66747B"/>
@@ -62,13 +62,13 @@
       <style token="MARKUP_CDATA" fg="d5e6f0"/>
       <style token="MARKUP_CDATA_DELIMITER" fg="ae9fbf"/>
       <style token="MARKUP_ENTITY_REFERENCE" fg="678CB1"/>
-      <style token="OPERATOR" fg="E8E2B7"/>
+      <style token="OPERATOR" fg="aaaaaa"/>
       <style token="PREPROCESSOR" fg="A082BD"/>
       <style token="REGEX" fg="d39745"/>
-      <style token="SEPARATOR" fg="E8E2B7"/>
+      <style token="SEPARATOR" fg="aaaaaa"/>
       <style token="VARIABLE" fg="ae9fbf" bold="true"/>
       <style token="WHITESPACE" fg="E0E2E4"/>
-      
+
       <style token="ERROR_IDENTIFIER" fg="E0E2E4" bg="04790e"/>
       <style token="ERROR_NUMBER_FORMAT" fg="E0E2E4" bg="04790e"/>
       <style token="ERROR_STRING_DOUBLE" fg="E0E2E4" bg="04790e"/>
