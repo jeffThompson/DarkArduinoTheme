@@ -10,7 +10,7 @@
 
 # GUI - STATUS
 status.notice.fgcolor = #002325
-status.notice.bgcolor = #404040
+status.notice.bgcolor = #17A1A5
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
 status.edit.fgcolor = #000000
@@ -20,9 +20,9 @@ status.font = SansSerif,plain,12
 # GUI - TABS
 # settings for the tabs at the top
 # (tab images are stored in the lib/theme folder)
-header.bgcolor = #404040
-header.text.selected.color = #323232
-header.text.unselected.color = #3C3C3C
+header.bgcolor = #17A1A5
+header.text.selected.color = #005B5B
+header.text.unselected.color = #007e82
 header.text.font = SansSerif,plain,12
 
 # GUI - CONSOLE
@@ -33,19 +33,19 @@ console.output.color = #eeeeee
 console.error.color = #E34C00
 
 # GUI - BUTTONS
-buttons.bgcolor = #505050
+buttons.bgcolor = #006468
 buttons.status.font = SansSerif,plain,12
 buttons.status.color = #ffffff
 
-# GUI - LINESTATUS
+# GUI - LINESTATUS   
 linestatus.color = #ffffff
-linestatus.bgcolor = #404040
+linestatus.bgcolor = #006468
 
 # EDITOR - DETAILS
 
 # foreground and background colors
-editor.fgcolor = #ffffff
-editor.bgcolor = #202020
+editor.fgcolor = #000000
+editor.bgcolor = #ffffff
 
 # highlight for the current line
 editor.linehighlight.color=#e2e2e2
@@ -102,8 +102,8 @@ editor.literal_char.style = #00979C,plain
 editor.literal_string_double_quote.style = #00979C,plain
 editor.preprocessor.style = #5E6D03,plain
 
-# http://www.arduino.cc/ - GET RID OF UNDERLINE!
-editor.url.style = #81A421,plain
+# http://www.arduino.cc/
+editor.url.style = #0000ff,underlined
 
 # e.g. + - = /
 editor.operator.style = #434f54,plain
