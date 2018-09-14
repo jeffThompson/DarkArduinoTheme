@@ -9,7 +9,7 @@
 
 
 # GUI - STATUS
-status.notice.fgcolor = #002325
+status.notice.fgcolor = #FFFFFF
 status.notice.bgcolor = #404040
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
