@@ -1,9 +1,9 @@
 #FUNCTIONS COLOR 			#D35400 - ORANGE			KEYWORD1
 #FUNCTIONS COLOR			#D35400 - ORANGE			KEYWORD2
-#STRUCTURE COLORS 			#5E6D03 - GREEN			KEYWORD3
-#VARIABLES COLOR 				#00979C - BLUE				LITERAL1
+#STRUCTURE COLORS 			#5E6D03 - GREEN				KEYWORD3
+#VARIABLES COLOR 			#00979C - BLUE				LITERAL1
 
-#ERROR COLOR					#A61717 - RED
+#ERROR COLOR				#A61717 - RED
 #COMMENTS // COLOR			#95A5A6 - LIGHT GREY
 #COMMENTS /**/ COLOR		#434F54	- DARK GREY
 
@@ -13,7 +13,7 @@ status.notice.fgcolor = #FFFFFF
 status.notice.bgcolor = #404040
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
-status.edit.fgcolor = #000000
+status.edit.fgcolor = #FFFFFF
 status.edit.bgcolor = #F1B500
 status.font = SansSerif,plain,12
 

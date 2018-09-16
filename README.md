@@ -3,7 +3,7 @@
 Dark Arduino Theme
 ================
 
-Revised for Arduino version 1.6.6+, not tested with earlier versions.
+Revised for Arduino version 1.8.5+, not tested with earlier versions.
 
 \- \- \-
 
