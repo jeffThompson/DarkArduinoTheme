@@ -56,7 +56,7 @@ editor.linehighlight=true
 editor.caret.color = #a0a0a0
 
 # color to be used for background when 'external editor' enabled
-editor.external.bgcolor = #c8d2dc
+editor.external.bgcolor = #202020
 
 # selection color
 editor.selection.color = #dd8800
