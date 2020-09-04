@@ -13,7 +13,7 @@ Revised for Arduino version 1.8.5+, not tested with earlier versions.
 * Windows is located in `C:\Program Files (x86)\Arduino\lib`.  
 * Linux will be in `/usr/share/arduino/lib/` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software  
 
-####Replace the theme folder and the splash screen images
+#### Replace the `theme` folder and the `splash` and `about` images
 
 ### CREATING YOUR OWN MODS
 The newest version of the Arduino IDE makes creating custom themes trickier: you now need to edit the `theme.txt` file, an XML file inside the `syntax` folder, and the button files. Unfortunately, not all items in the `theme.txt` file actually work, so if you can't get an item to change, try another one of the files.
