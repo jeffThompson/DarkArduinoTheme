@@ -9,7 +9,7 @@ Revised for Arduino version 1.8.5+, not tested with earlier versions.
 
 ### INSTALLATION  
 
-* Mac users should look in `/Applications/Arduino.app/Contents/Java/lib` and replace the `theme` folder inside (making a copy of the original in case want to revert back).  
+* Mac users should look in `/Applications/Arduino.app/Contents/Java/lib` and replace the `theme` folder inside, the `splash.png`,`splash.bmp`, `about.png` with the ones from the DarkArduinoTheme folder (making a copy of the original in case want to revert back).
 * Windows is located in `C:\Program Files (x86)\Arduino\lib`.  
 * Linux will be in `/usr/share/arduino/lib/` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software  
 
