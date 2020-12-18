@@ -1,9 +1,11 @@
 ![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
 
-Dark Arduino Theme
-================
+# Dark Arduino Theme
 
-Revised for Arduino version 1.8.5+, not tested with earlier versions.
+### NOTE  
+**Sadly, I'm no longer maintaining this theme. The Arduino IDE has changed a lot but I'm not doing much work with the platform and it's just too much to keep this up-to-date.** If you'd like to fork the repo and fix it, that would be great! I'll happily add a link to your version here so others can benefit.
+
+Still works for Arduino version 1.8.5+, not tested with newer/older versions.
 
 \- \- \-
 
